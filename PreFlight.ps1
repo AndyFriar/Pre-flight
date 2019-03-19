@@ -907,7 +907,7 @@ possibility of such damages.
             $grpComplete.Name = "grpComplete"
             $grpComplete.Size = $drawingSize
             $grpComplete.TabStop = $False
-            $grpComplete.Text = "Please select the preferred option to start the batch"
+            $grpComplete.Text = "Please select the preferred option to complete the batch"
         #endregion
 
         #region frmSchedule
